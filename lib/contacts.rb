@@ -10,8 +10,8 @@ require 'pry'
     # },
     # "Freddy Mercury" => {
       # name: "Freddy",
-       email: "freddy@mercury.com",
-       favorite_ice_cream_flavors: ["strawberry", "cookie dough", "mint chip"]
+      #email: "freddy@mercury.com",
+       #favorite_ice_cream_flavors: ["strawberry", "cookie dough", "mint chip"]
  #    }
 
   
